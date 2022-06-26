@@ -64,7 +64,7 @@ a:hover{
 .middle-container {
  margin: 100px 0;
 }
-.skill-row{
+.skill-row, .academics-row{
   width: 50%;
   margin: 100px auto;
   text-align: left;
@@ -80,6 +80,10 @@ a:hover{
 .skill-img-2{
   float: right;
   margin-left: 30px;
+}
+
+.academics-row ul li{
+  line-height: 2;
 }
 
 .contact-message{
